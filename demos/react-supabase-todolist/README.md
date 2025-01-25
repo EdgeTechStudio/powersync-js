@@ -20,7 +20,7 @@ Then switch into the demo's directory:
 ```bash
 cd demos/react-supabase-todolist
 ```
-
+pnp
 Set up the Environment variables: Copy the `.env.local.template` file:
 
 ```bash
